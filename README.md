@@ -201,4 +201,9 @@ valgrind --tool=massif ./optimized_recursion
 
 ⭐ **Star this repository if it helped optimize your recursive algorithms!**
 
+Author: Argha Ghosh
+GitHub: arg-rgb
+Email: tojog75@gmail.com
+
 *Last updated: July 2025*
+For questions or support, please open an issue in the repository or contact [tojog75@gmail.com].
