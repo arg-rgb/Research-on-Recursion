@@ -3,7 +3,6 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://shields.io/)
 [![C Version](https://img.shields.io/badge/C-C11%2B-blue.svg)](https://shields.io/)
 [![Compiler Support](https://img.shields.io/badge/compiler-GCC%2015%2B%20%7C%20Clang%2013%2B-orange.svg)](https://shields.io/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## 🚀 Overview
 
@@ -190,26 +189,6 @@ make benchmark
 valgrind --tool=massif ./optimized_recursion
 ```
 
-## 📚 Documentation
-
-- **[Concepts Guide](docs/concepts.md)**: Theoretical foundations and algorithm analysis
-- **[Implementation Guide](docs/implementation.md)**: Step-by-step implementation details
-- **[Benchmarks](docs/benchmarks.md)**: Comprehensive performance analysis
-- **[Best Practices](docs/best-practices.md)**: Coding guidelines and optimization tips
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-optimization`)
-3. Commit your changes (`git commit -m 'Add amazing optimization'`)
-4. Push to the branch (`git push origin feature/amazing-optimization`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🏆 Acknowledgments
 
@@ -217,14 +196,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Research papers on recursive function optimization
 - Open source community contributions to performance optimization
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/recursion-optimization/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/recursion-optimization/discussions)
-- **Email**: recursion-optimization@example.com
-
----
 
 ⭐ **Star this repository if it helped optimize your recursive algorithms!**
 
+Author: Argha Ghosh
+GitHub: arg-rgb
+Email: tojog75@gmail.com
+
 *Last updated: July 2025*
+For questions or support, please open an issue in the repository or contact [tojog75@gmail.com].
