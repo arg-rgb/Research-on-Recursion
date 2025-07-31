@@ -171,24 +171,6 @@ int trampoline(Thunk initial) {
 - **Optimization flags**: `-O3`, automatic TCO detection
 - **LLVM backend**: Advanced optimization passes
 
-## 🧪 Testing & Validation
-
-```bash
-# Run all tests
-make test
-
-# Run specific technique tests
-make test-tailcall
-make test-memoization
-make test-trampolining
-
-# Performance benchmarks
-make benchmark
-
-# Memory usage analysis
-valgrind --tool=massif ./optimized_recursion
-```
-
 
 ## 🏆 Acknowledgments
 
